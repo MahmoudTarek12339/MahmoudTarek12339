@@ -86,6 +86,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/MahmoudTarek12339/MahmoudTarek12339/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ###
